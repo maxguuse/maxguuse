@@ -5,6 +5,16 @@
 </h1>
 </div>
 
+### 👑 Most valuable projects
+
+<div>
+  
+  🤖 [gguuse-streams](https://github.com/maxguuse/gguuse-streams/) - Twitch Chatbot
+  
+</div>
+
+---
+
 ### 🛠️ Languages
 
 <div>
