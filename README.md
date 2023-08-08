@@ -17,10 +17,7 @@
 
 ### 🛠️ Languages
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="golang" alt="golang" width="40" height="40"/>&nbsp;
-</div>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d128f7f3-053b-4e15-9d91-7d983a1cafe8/84e6efac-a49d-4aac-b0a1-fd8252db820f.png" width=600/></a>
 
 ---
 
