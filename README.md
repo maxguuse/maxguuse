@@ -5,27 +5,36 @@
 </h1>
 </div>
 
-### 👑 Most valuable projects
-
-<div>
-  
-  🤖 [gguuse-streams](https://github.com/maxguuse/gguuse-streams/) - Twitch Chatbot
-  
+<div align="center">
+  <h3>🥴 About me in a nutshell</h3>
+  I'm only human after all<br/>
+  I'm only human after all<br/>
+  Don't put the blame on me<br/>
+  Don't put the blame on me<br/>
 </div>
 
 ---
 
-### 🛠️ Languages
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d128f7f3-053b-4e15-9d91-7d983a1cafe8/84e6efac-a49d-4aac-b0a1-fd8252db820f.png" width=600/></a>
+<div align="center">
+  <h3>👑 Most valuable projects</h1>
+  🤖 <a href="https://github.com/maxguuse/gguuse-streams/">gguuse-streams</a> - Twitch Chatbot
+</div>
 
 ---
 
-### 🧰 Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GGuuse&layout=compact&theme=dark" alt="Top lang">
 </div>
+
+---
+
+<div align="center">
+
+  | Editors | VCS | OS | Other |
+  | :------ | :-- | :- | :---- |
+  | <img src="https://img.shields.io/badge/GoLand-090909?style=for-the-badge&logo=goland"> | <img src="https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git"> | <img src="https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=windows10"> | <img src="https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman"> |
+  | <img src="https://img.shields.io/badge/Visual Studio Code-090909?style=for-the-badge&logo=visual%20studio%20code"> | <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github"> | <img src="https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Ubuntu"> | <img src="https://img.shields.io/badge/Draw.IO-090909?style=for-the-badge"> |
+
+</div>
+
+
