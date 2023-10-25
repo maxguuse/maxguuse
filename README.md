@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GGuuse&layout=compact&theme=dark" alt="Top lang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxguuse&layout=compact&langs_count=7&theme=dark" alt="Top lang">
 </div>
 
 ---
