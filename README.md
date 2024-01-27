@@ -16,13 +16,6 @@
 ---
 
 <div align="center">
-  <h3>👑 Most valuable projects</h1>
-  🤖 <a href="https://github.com/maxguuse/gguuse-streams/">gguuse-streams</a> - Twitch Chatbot
-</div>
-
----
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxguuse&layout=compact&langs_count=7&theme=dark" alt="Top lang">
 </div>
 
