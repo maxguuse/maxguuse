@@ -5,16 +5,9 @@
   </h1>
 </div>
 
-<div align="center">
-  <h3>🥴 About me in a nutshell</h3>
-  I'm only human after all<br/>
-  I'm only human after all<br/>
-  Don't put the blame on me<br/>
-  Don't put the blame on me<br/>
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxguuse&layout=compact&langs_count=7&theme=dark" alt="Top lang">
+  <img src="https://github-stats-rho-eight.vercel.app/api?username=maxguuse&layout=compact&theme=dark&include_all_commits=true&hide_title=true&count_private=true" height="150" alt="GitHub Stats">
+  <img src="https://github-stats-rho-eight.vercel.app/api/top-langs/?username=maxguuse&layout=compact&langs_count=7&theme=dark&hide_title=true&count_private=false" height="150" alt="Top lang">
 </div>
