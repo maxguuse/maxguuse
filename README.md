@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,docker,postman,git,githubactions,vscode,idea,postgres,linux,bash,bots&perline=6" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=go,cs,docker,postman,git,githubactions,vscode,neovim,postgres,linux,bash,bots&perline=6" alt="Skills">
 </div>
